@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "bot-whatsapp-453022",
+  "private_key_id": "de97ef12ab0a83d7a31fa1fc9574cf26ea244a45",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCjnk9NfR+mpnxI\n5ceXtXxWMxEsI7AfQhB6W4WmCsVtbM549zw6g2Swg/hbCjUErqi8h4Un0259NE78\nYz3ArQVmZh2R7MQyCBJdVN+R9DUGuGGG9uYVkhC8ZQsf3PiQtP/k9R7Dsh3xePok\nA4VrVrImn3xum6rtlqHUr4z3onxUNMvkVa8/znCwBnzhN8BxRINjyJLE3hFwaKNq\nbVOng1XBV4AEYSD1lQVanjpX3c86QjV1j4+L/zQUytvi5ShzgsiQXmEgxaMOhkr9\nQ56VhZfNe1cXQrEW2SBYSDhpEhlSQzNZD1ITAc49J7N2FAbacAiVayWaD6oPG8v0\n307AtsubAgMBAAECggEAAPY8LBy22PUlhOWSwhMOtS3xIslUnWEyUEteIn+i3Y+L\nnJJcH1HwCWdN0kS6cF6laHLvqDAp+BQ6OFXX8Q2auI+Tz53Wl215Gse9c1bH6cpk\niokTHR2Ub/3bnOwlvrO5sdivM/YA1A9iqMIUFF2nJXTnGgQgy7A599xOpLowsP8a\nWQzH9KO+M6OLxea4iIMWKTi5y+Nprf238DfiPoaNKoLliQnStkVEQ+hPTN7F7iTM\nUVlM0aCZi7Fs5b0hGd3QoQRhdt/c5Fany0ljL5tSm5Cbsk/q7zLceoidCjMThA4V\ncb/FMT+nkmJa3iuWZMz7BIJ5wticVf/hf/vB/2XN9QKBgQDjgNSJ+0DMhiBorXBk\nkUiidU6IENYGKU8jhi2Q5KVwTHnbT9K5SxM986Rh22ETd0nC+KxedVs7OFQAwaaq\n7hd1vjVkMqSIkM/TVi70GHbAcPUoH8/sZC38wVrFmKZDtLZcy2G7lpFEGLpqsT+v\npe4DiLFzLdSV4nFbBg+biv4fTQKBgQC4HO8PhU81tci4y8SDt1iVxPiwKEBZ4Hsl\nneHdhyy2kdSxczm/pWjqBJWgzoauBCq3i9YfhzhXOdDog78yg/ebQfAjEeVAfNaA\n/mOaUKkV/6LP31ln4DfjkEXTSWFDpsLQYKh9ZwxZdPQBF26vbIjjKxDEYTLoUqbw\ntB2VW9RyhwKBgQDcKi4Fhlh0VY0BoG83c/4F8l5YgWqONeX3a/+mzA9quSfoXLyC\nQyxQ9PttFEBC9Vs1yzAMjagHjICG5uFjY9ziPnwvBm+CFhp53Fq+MPqjS+2Eshyn\nGWADzh8JQKwOs9ETxmNDhff5HbEyVWxbkMnhM6T+4ShtEOJAg4IRNhattQKBgG0y\ni/9ym7ZJaRFhmd5dYicCOlWQqgokgCWhbJMNV1G5UKMmqjumiYEy0uQbWfnf8s4G\nHCt68cmaOvONIFt/td3Zz+mc9ZG3+Slst/qQmJi5lAEigU6Ax+Uqbp+QSCXtxGH+\n0i/+bG6qVQZItZdKEi5aHom69IyiaO0ehuVNH8YFAoGABuM8JIEs+s9XrxVqHljC\nfXsf4le6s22JNexBJ5+1Il1/Wb2KFQURaXIiTtFi/Vcr1tlXwYLr4BbMBuqaVULu\nXf4JlatkFPlz5Q4bT7fopDh5m1SRigg+WXuEH7beFJSR2dCnagoJ+Kv9HFrNczgW\n96OvAE3IhRn4wUO5FLllkBY=\n-----END PRIVATE KEY-----\n",
+  "client_email": "bot-finanzas-lotsystem@bot-whatsapp-453022.iam.gserviceaccount.com",
+  "client_id": "109070678709892697148",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bot-finanzas-lotsystem%40bot-whatsapp-453022.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
